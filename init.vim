@@ -63,6 +63,12 @@ Plug 'morhetz/gruvbox'
 Plug 'justinmk/vim-sneak'
 " Easymotion
 Plug 'easymotion/vim-easymotion'
+" Surround
+Plug 'tpope/vim-surround'
+" EasyAlign
+Plug 'junegunn/vim-easy-align'
+" Fugitive
+Plug 'tpope/vim-fugitive'
 
 call plug#end()
 
